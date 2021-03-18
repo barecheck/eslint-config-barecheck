@@ -39,7 +39,7 @@ Be sure you logged in
 
 - `npm login`
 
-[Update package version`](https://docs.npmjs.com/cli/v7/commands/npm-version)
+[Update package version](https://docs.npmjs.com/cli/v7/commands/npm-version)
 
 - `npm version [<newversion> | major | minor | patch`
 
