@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-barecheck-base",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "Eslint + Airbnb + Prettier + a few more rules to have better JS linting",
   "main": "src/index.js",
   "dependencies": {
@@ -9,7 +9,7 @@
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-prettier": "^3.3.1"
   },
-  "peerDependency":{
+  "peerDependency": {
     "eslint": ">=7",
     "prettier": ">=2"
   },
