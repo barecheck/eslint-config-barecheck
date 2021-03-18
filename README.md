@@ -26,7 +26,7 @@ npm install eslint-config-barecheck-base --dev
 
 ```js
 module.exports = {
-  extends: ['eslint-config-barecheck-base'],
+  extends: ["eslint-config-barecheck-base"],
   rules: {}
 };
 ```
